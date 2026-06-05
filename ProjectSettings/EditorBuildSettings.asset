@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Ex03_Physics/Ex03_Joint.unity
     guid: 93a9088a80e3f1546bf8b465b095586f
+  - enabled: 1
+    path: Assets/Ex04_UI_EventSystem/Ex04_UI.unity
+    guid: 53cfff626eae94340851272db5470228
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
